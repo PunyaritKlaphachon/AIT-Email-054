@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AITmail154</string>
+    <string name="title_activity_theme1">Theme1</string>
+    <string name="title_activity_reply_home_content.kt">ReplyHomeContent.kt</string>
+    <string name="title_activity_reply_home_content">ReplyHomeContent</string>
+</resources>
